@@ -1,0 +1,8 @@
+{
+  "name": "Remix The 2nd Wife Family Restaurant",
+  "description": "Premium family dining restaurant in Sherghati, Bihar offering authentic tandoori delicacies, rich North Indian curries, and Indo-Chinese dishes in a warm, cinematic ambiance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
